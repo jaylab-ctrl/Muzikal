@@ -5,6 +5,8 @@ Duration: 23 Jan 2021 - Not yet completed
 
 The project is about Classifying Music Genres, "Rock" and "Hiphop". 
 
+Data collected from DataCamp projects.
+
 Tasks undertaken:
 1. Merged a csv file and a json file to make a dataframe which is used for analysis.
 2. Made visualizations to show imbalanced data and used SMOTE to oversample the data.
