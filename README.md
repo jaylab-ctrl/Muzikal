@@ -9,7 +9,7 @@ Data collected from DataCamp projects.
 
 Tasks undertaken:
 1. Merged a csv file and a json file to make a dataframe which is used for analysis.
-2. Made visualizations to show imbalanced data and used SMOTE to oversample the data, to remove bias.
+2. Made visualizations to show imbalanced data and used SMOTE to oversample the data, to remove biasness.
 3. Performed Data Scaling to scale the datavand Feature Engineering to remove unnecessary attributes.
 4. Used 3 classification models: KNeighbours, RandomForest and CatBoost to train on the training data and predict on the test data.
 5. Showed metrics of classification and feature importance of CatBoost model.
