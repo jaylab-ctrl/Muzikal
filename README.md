@@ -1,4 +1,5 @@
-# Binary-Classifier-for-Music-Genres
+# Classify-Music-Using-Audio-Data
+
 This project is for the subject Data Mining and Analysis.
 
 Duration: 23 Jan 2021 - Not yet completed
