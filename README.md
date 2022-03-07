@@ -4,7 +4,7 @@ This project is for the subject Data Mining and Analysis.
 
 Duration: 23 Jan 2021 - Not yet completed
 
-The project is about Classifying Music Genres, "Rock" and "Hiphop". 
+The project is about Classifying Music Genres, "Rock" and "Hiphop", from the given audio data. 
 
 Data collected from DataCamp projects.
 
