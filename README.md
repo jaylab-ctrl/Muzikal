@@ -19,4 +19,4 @@ Tasks undertaken:
 8. Made a small prediction based on the given sample of the dataframe.
 9. Dumped model in a pickle file.
 10. Build an app file for Streamlit deployment.
-11. Used localtunnel to tunnel application on STreamlit.
+11. Used localtunnel to tunnel application on Streamlit.
