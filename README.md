@@ -13,7 +13,7 @@ Tasks undertaken:
 2. Made visualizations to show imbalanced data and used SMOTE to oversample the data, to remove biasness.
 3. Performed Data Scaling to scale the datavand Feature Engineering to remove unnecessary attributes.
 4. Used 3 classification models: KNeighbours, RandomForest and CatBoost to train on the training data and predict on the test data.
-5. Showed metrics of classification and feature importance of CatBoost model.
+5. Showed metrics of classification of all the models and feature importance of CatBoost model.
 6. Applied Hyperparameter Tuning on CatBoost to increase the accuracy score of the model.
 7. Performed Ensembled Learning on all models.
 8. Made a small prediction based on the given sample of the dataframe.
