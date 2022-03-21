@@ -5,18 +5,3 @@ This project is for the subject Data Mining and Analysis.
 Duration: 23 Jan 2021 - 15 Mar 2021
 
 The project is about Classifying Music Genres, "Rock" and "Hiphop", from the given audio data. 
-
-Data collected from DataCamp projects.
-
-Tasks undertaken:
-1. Merged a csv file and a json file to make a dataframe which is used for analysis.
-2. Made visualizations to show imbalanced data and used SMOTE to oversample the data, to remove biasness.
-3. Performed Data Scaling to scale the datavand Feature Engineering to remove unnecessary attributes.
-4. Used 3 classification models: KNeighbours, RandomForest and CatBoost to train on the training data and predict on the test data.
-5. Showed metrics of classification of all the models and feature importance of CatBoost model.
-6. Applied Hyperparameter Tuning on CatBoost to increase the accuracy score of the model.
-7. Performed Ensembled Learning on all models.
-8. Made a small prediction based on the given sample of the dataframe.
-9. Dumped model in a pickle file.
-10. Build an app file for Streamlit deployment.
-11. Used localtunnel to tunnel application on Streamlit.
