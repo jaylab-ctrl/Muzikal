@@ -148,6 +148,7 @@ We used the best model (in terms of Accuracy) for inputing some values.
 
 ## Limitation and what can be improved
 - If the dataset had more instances and genres then it would be more beneficial to analyse more genres together.
+- Should have added in more machine learning models, which could yield better results than the previous ones.
 - Used RandomizedSearch to save time but GridSearch would have yield better results.
 
 
