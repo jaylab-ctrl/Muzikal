@@ -129,7 +129,7 @@ Confusion Matrix
 
 For the models, the metric used was *Accuracy*.
 
-We used Accuracy as measure because we do not want the model to wrongfully classify the genre, which when can cause problems when building recommendations systems.
+We used Accuracy as measure because we do not want the model to wrongfully classify the genre, which when can cause problems while building recommendations systems.
 
 | Model  | Accuracy|
 |-------------------|------------------	|
