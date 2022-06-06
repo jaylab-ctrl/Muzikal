@@ -40,7 +40,7 @@ The is an end-to-end project about Classifying Music Genres, "Rock" and "Hiphop"
   - [Contribution](#contribution)
 
 ## Business Problem 
-This app predicts whether music genre is 'Rock' or 'Hip-hop accordinf to the user's input of decompsed music data.
+This app predicts whether music genre is 'Rock' or 'Hip-hop according to the user's input of decompsed music data.
 
 ## Data source
 The data was collected from DataCamp Projects.
