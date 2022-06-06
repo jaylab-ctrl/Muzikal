@@ -94,6 +94,7 @@ The data was collected from DataCamp Projects.
 ![Correlation Mat](https://cdn.discordapp.com/attachments/808978547296567316/983349359557095456/unknown.png)
 
 **The variables are not highly correlated between each other so no need of Feature Selection.**
+But will confirm Feature Selection using Variance Inflation Factor later in the project.
 
 
 3. Learning different attributes using genres.
