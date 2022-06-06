@@ -48,7 +48,7 @@ The data was collected from DataCamp Projects.
 ## Dataset Attributes
 |Attribute| Description 	|
 |-------------------|------------------	|
-|Track_id|The respective track of the song|
+|Track_id|The track of the song|
 |Acousticness|A confidence measure from 0.0 to 1.0 of whether the track is acoustic. 1.0 represents high confidence the track is acoustic|
 |Danceability|Describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable|
 |Energy|A measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity|
@@ -127,6 +127,8 @@ Confusion Matrix
 ![Confusion Mat](https://cdn.discordapp.com/attachments/808978547296567316/983349841109348362/unknown.png)
 
 For the models, the metric used was *Accuracy*.
+
+We used Accuracy as measure because we do not want the model to wrongfully classify the genre, which when can cause problems when building recommendations systems.
 
 | Model  | Accuracy|
 |-------------------|------------------	|
