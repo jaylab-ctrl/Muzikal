@@ -105,12 +105,12 @@ The data was collected from DataCamp Projects.
  - **Hip-hop genre is highly danceable than rock**. So, hip-hop music uses a combination of musical elements, where rock uses less combination.
  - **Both of these generes have good energy**. Energy is the measure of high instensity and acitivity. So, these tracks are mainly fast paced and have loud elements to it.
  - **Rock genre has higher instrumentalness than hip-hop**. Values above 0.5 are intended to represent instrumental tracks. So clearly, we can see that rock music generally has no vocal content. 
- - **Both of these genres have low liveness**. Low livenes values represent an probability that the track was not performed live. So, here we can see that theses tracks are not performed live in front of the audience.
+ - **Both of these genres have low liveness**. Low liveness values represent an probability that the track was not performed live. So, here we can see that theses tracks are not performed live in front of the audience.
  - **Both of these genres have a low spechiness level**. The values below 0.33 most likely represent music and other non-speech-like tracks. So, these genres mainly do not use speech.
  - **Both of these genres have relatively high tempo**. This means that the tracks of the genres have higher Beats Per Minute (BPM).
  - **The valence factor of hip-hop is higher than rock**. This concludes that hip-hop genres are more positive. Positive music has help a person reduce stress.
 
-4. Target variable balancing using SMOTE and plotting the outcome.
+4. Plotting the target variable balancing.
 
 ![Pie Plot](https://cdn.discordapp.com/attachments/808978547296567316/983349771018338304/unknown.png)
 
