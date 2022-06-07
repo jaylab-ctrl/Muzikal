@@ -145,7 +145,7 @@ We used the best model (in terms of Accuracy) for inputing some values.
 
 ## Lessons learnt
 - Based on the analysis of the project, we learnt how different the genres have some similairities and dissimilarities between them. 
-- We also found that danceability and valaence are the most predictive features to determine whether the song is 'Rock' or 'Hip-hop'.
+- We also found that danceability and valence are the most predictive features to determine whether the song is 'Rock' or 'Hip-hop'.
 - This project can be mainly used as a building block for developing recommendation systems for music.
 
 ## Limitation and what can be improved
