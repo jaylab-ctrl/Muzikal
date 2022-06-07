@@ -13,6 +13,8 @@
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16-QZNfE4-xsz0Ckxr38yN6xWx8Mg_pQ4)
 
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 Badges source: [shields.io](https://shields.io/)
 # Muzikal
 
@@ -86,7 +88,7 @@ The data was collected from DataCamp Projects.
 
 ![Pie Plot](https://cdn.discordapp.com/attachments/808978547296567316/983349213989568622/unknown.png)
 
-**We need to balance the target variable to reduce the biasness of the majority target varaible during training.**
+**We need to balance the target variable to reduce the biasness of the majority target variable during training.**
 
 
 2. Correlation among the features.
